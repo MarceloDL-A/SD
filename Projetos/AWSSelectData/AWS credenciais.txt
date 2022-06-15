@@ -1,8 +1,0 @@
-AWS: https://676669272180.signin.aws.amazon.com/console
-
-ID chave de acesso:
-
-AKIAZ3DFBWB2G2OKTLYX
-
-Chave de acesso secreta: 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
-
